@@ -50,7 +50,7 @@ Puoi trovarmi principalmente su **Discord**, dove sono sempre disponibile per di
 
 Sono sempre aperto a nuove opportunità di collaborazione. Se hai domande o vuoi discutere di progetti, sentiti libero di contattarmi!
 
-[![Discord](https://img.shields.io/badge/Discord-join-blue?logo=discord)](https://discord.gg/Gabrryx412)
+[![Discord](https://img.shields.io/badge/Discord-join-blue?logo=discord)](https://discord.gg/gabryx412)
 
 ## 📜 Curiosità
 
