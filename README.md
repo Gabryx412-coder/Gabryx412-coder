@@ -39,6 +39,7 @@ Mi sono specializzato nel settaggio e nella gestione di **server Minecraft**, ai
 ## 📱 Trovarmi Online
 
 Puoi trovarmi principalmente su **Discord**, dove sono sempre disponibile per discussioni tecniche, progetti open source, e collaborazioni.
+Puoi anche trovarmi sul mio **Sito Web**: www.gabrynetwork.xyz
 
 ## 📚 Progetti in Corso
 
