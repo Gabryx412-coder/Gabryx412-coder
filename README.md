@@ -1,4 +1,4 @@
-# Ciao, sono Gabrryx412-Coder 👋
+# Ciao, sono Gabryx412-Coder 👋
 
 Sono un programmatore con una vasta esperienza in una varietà di linguaggi di programmazione e tecnologie. Ho una solida base in Cybersecurity, Computer Science e una grande passione per la risoluzione di problemi complessi.
 
