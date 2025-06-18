@@ -18,7 +18,6 @@ Sono esperto nei seguenti linguaggi di programmazione:
 - **PowerShell**
 - **Bash**
 - **Batch**
-- **Assembly**
 - **Ruby**
 - **HTML & CSS** (Design e Sviluppo)
 - **XML & YAML**
