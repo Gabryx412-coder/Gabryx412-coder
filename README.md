@@ -4,12 +4,11 @@ Sono un programmatore con una vasta esperienza in una varietà di linguaggi di p
 
 ## 🖥 Linguaggi di Programmazione & Tecnologie
 
-Sono esperto nei seguenti linguaggi di programmazione:
+Conosco seguenti linguaggi di programmazione:
 
 - **JavaScript**
 - **Java**
 - **Python**
-- **MySQL**
 - **PHP**
 - **C**
 - **C++**
@@ -21,7 +20,6 @@ Sono esperto nei seguenti linguaggi di programmazione:
 - **Ruby**
 - **HTML & CSS** (Design e Sviluppo)
 - **XML & YAML**
-- **TLQ & Jinja**
 
 ## 🔐 Cybersecurity & Computer Science
 
