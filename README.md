@@ -1,61 +1,66 @@
-# Ciao, sono Gabryx412-Coder 👋
+# 👋 Ciao, sono Gabryx412-coder
 
-Sono un programmatore con una vasta esperienza in una varietà di linguaggi di programmazione e tecnologie. Ho una solida base in Cybersecurity, Computer Science e una grande passione per la risoluzione di problemi complessi.
-
-## 🖥 Linguaggi di Programmazione & Tecnologie
-
-Conosco seguenti linguaggi di programmazione:
-
-- **JavaScript**
-- **Java**
-- **Python**
-- **PHP**
-- **C**
-- **C++**
-- **C#**
-- **Go**
-- **PowerShell**
-- **Bash**
-- **Batch**
-- **Ruby**
-- **HTML & CSS** (Design e Sviluppo)
-- **XML & YAML**
-
-## 🔐 Cybersecurity & Computer Science
-
-La mia esperienza nella **Cybersecurity** mi permette di identificare e proteggere sistemi da potenziali vulnerabilità. Inoltre, sono ben preparato nel campo delle **Scienze Informatiche**, con una solida conoscenza dei fondamenti e delle pratiche avanzate.
-
-## 💻 Piattaforme
-
-Lavoro comodamente su **Windows**, **Linux** e ho una conoscenza limitata di **macOS**.
-
-## 🖧 Specializzazione
-
-Mi sono specializzato nel settaggio e nella gestione di **server Minecraft**, aiutando i giocatori e gli amministratori a creare e ottimizzare le loro esperienze di gioco online.
-
-## 📱 Trovarmi Online
-
-Puoi trovarmi principalmente su **Discord**, dove sono sempre disponibile per discussioni tecniche, progetti open source, e collaborazioni.
-Puoi anche trovarmi sul mio **Sito Web**: www.gabrynetwork.xyz
-
-## 📚 Progetti in Corso
-
-- Sviluppo di script per l'automazione di processi
-- Ottimizzazione di server Minecraft
-- Contribuzione a progetti open-source di Cybersecurity
-
-## 💬 Contattami
-
-Sono sempre aperto a nuove opportunità di collaborazione. Se hai domande o vuoi discutere di progetti, sentiti libero di contattarmi!
-
-[![Discord](https://img.shields.io/badge/Discord-join-blue?logo=discord)](https://discord.gg/gabryx412)
-
-## 📜 Curiosità
-
-- **Vasta esperienza nel troubleshooting e problem-solving**.
-- Appassionato di **automazione** e **ottimizzazione**.
-- Forte interesse per l'**apprendimento continuo**.
+Sono un ragazzo con una forte passione per l'informatica, in particolare per la **cybersecurity** e lo **sviluppo software**. Tutto quello che trovi su questo profilo è frutto di **studio, pratica e sperimentazione personale**.
 
 ---
 
-Non vedo l'ora di connettermi con te e di lavorare insieme su nuovi progetti! 🚀
+## 🔐 Cybersecurity (la mia vera passione)
+
+Negli ultimi anni mi sono specializzato in sicurezza informatica, partendo da basi solide fino ad arrivare a:
+
+- Analisi delle vulnerabilità (manuale e automatizzata)
+- Studio di exploit reali e tecniche di attacco (a scopo educativo)
+- Test di penetrazione locali e su ambienti virtuali (CTF, lab, ecc.)
+- Sviluppo di tool personalizzati per audit e monitoraggio
+- Approccio pratico alla **difesa e protezione di sistemi**, sia server Linux che ambienti Windows
+
+Studio quotidianamente argomenti legati a:
+- Privilege escalation
+- Secure coding
+- Sicurezza di rete
+- Incident response
+- Ethical hacking
+
+---
+
+## 💻 Programmazione
+
+Ho iniziato a programmare per passione, poi per necessità. Oggi uso diversi linguaggi per progetti personali, plugin Minecraft, automazioni e tool per la sicurezza:
+
+### Linguaggi che uso spesso:
+- **Java** – per plugin e creazione di software
+- **Python** – per tool di sicurezza, automazioni e script rapidi
+- **C / C++** – per studiare da vicino come funziona davvero un programma
+- **JavaScript / Node.js** – per web, Discord bot e interazioni API
+- **PHP / HTML / CSS** – per siti dinamici, backend e frontend base
+- **Bash / PowerShell** – per script e gestione sistemi
+
+Conosco anche YAML, JSON, XML, e so muovermi tra Dockerfile, file di configurazione e ambienti Linux.
+
+---
+
+## ⚙️ Cosa so fare
+
+- Creo **plugin Java** da zero per Minecraft (Paper/Spigot), con tutto configurabile da `config.yml`
+- Gestisco **server dedicati** con attenzione alla sicurezza, performance e stabilità
+- Scrivo **script e tool** personalizzati per risolvere problemi
+- Partecipo a **CTF**, simulazioni di attacco e laboratorio privati per testare exploit e tecniche
+- Capisco cosa vuol dire **scrivere codice sicuro**, e quando è il caso di riscriverlo da zero
+
+---
+
+## 🧪 Alcuni miei progetti
+
+- Plugin survival & roleplay (interamente in Java)
+- Sistemi di logging e controllo interno
+- Bot Discord con dashboard e controllo utenti
+- Script per scansione reti, log analysis, file integrity checker
+- Tools personali per il controllo di configurazioni server
+
+> I progetti non sono solo "dimostrativi": li uso davvero, li gestisco, li modifico ogni volta che trovo qualcosa da migliorare.
+
+---
+
+## 📫 Contatti
+
+- **Discord**: [Server Discord](https://discord.gg/H4ZsNsz3d3)
