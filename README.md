@@ -28,11 +28,11 @@ Studio quotidianamente argomenti legati a:
 Ho iniziato a programmare per passione, poi per necessità. Oggi uso diversi linguaggi per progetti personali, plugin Minecraft, automazioni e tool per la sicurezza:
 
 ### Linguaggi che uso spesso:
-- **Java** – per plugin e creazione di software
-- **Python** – per tool di sicurezza, automazioni e script rapidi
-- **C / C++** – per studiare da vicino come funziona davvero un programma
-- **JavaScript / Node.js** – per web, Discord bot e interazioni API
-- **PHP / HTML / CSS** – per siti dinamici, backend e frontend base
+- **Java** – per plugin e creazione di software [Certificato](https://www.hackerrank.com/certificates/iframe/d3d8ec80b894)
+- **Python** – per tool di sicurezza, automazioni e script rapidi [Certificato](https://www.hackerrank.com/certificates/iframe/3ebd0f3d6058)
+- **C / C++** – per studiare da vicino come funziona davvero un programma 
+- **JavaScript / Node.js** – per web, Discord bot e interazioni API [Certificato](https://www.hackerrank.com/certificates/iframe/c700a7064df1)
+- **PHP / HTML / CSS** – per siti dinamici, backend e frontend base [Certificato](https://www.hackerrank.com/certificates/iframe/8ad98beefd93)
 - **Bash / PowerShell** – per script e gestione sistemi
 
 Conosco anche YAML, JSON, XML, e so muovermi tra Dockerfile, file di configurazione e ambienti Linux.
