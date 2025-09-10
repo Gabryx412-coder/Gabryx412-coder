@@ -9,7 +9,7 @@ Sono un ragazzo con una forte passione per l'informatica, in particolare per la 
 Negli ultimi anni mi sono specializzato in sicurezza informatica, partendo da basi solide fino ad arrivare a:
 
 - Analisi delle vulnerabilità (manuale e automatizzata)
-- Studio di exploit reali e tecniche di attacco (a scopo educativo)
+- Studio di exploit reali e tecniche di attacco
 - Test di penetrazione locali e su ambienti virtuali (CTF, lab, ecc.)
 - Sviluppo di tool personalizzati per audit e monitoraggio
 - Approccio pratico alla **difesa e protezione di sistemi**, sia server Linux che ambienti Windows
