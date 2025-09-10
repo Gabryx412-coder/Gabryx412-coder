@@ -10,7 +10,7 @@ Negli ultimi anni mi sono specializzato in sicurezza informatica, partendo da ba
 
 - Analisi delle vulnerabilità (manuale e automatizzata)
 - Studio di exploit reali e tecniche di attacco
-- Test di penetrazione locali e su ambienti virtuali (CTF, lab, ecc.)
+- Test di penetrazione su commissione
 - Sviluppo di tool personalizzati per audit e monitoraggio
 - Approccio pratico alla **difesa e protezione di sistemi**, sia server Linux che ambienti Windows
 
