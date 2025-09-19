@@ -31,7 +31,7 @@ Ho iniziato a programmare per passione, poi per necessità. Oggi uso diversi lin
 - **Java** – per plugin e creazione di software [Certificato](https://www.hackerrank.com/certificates/iframe/d3d8ec80b894)
 - **Python** – per tool di sicurezza, automazioni e script rapidi [Certificato](https://www.hackerrank.com/certificates/iframe/3ebd0f3d6058)
 - **C / C++** – per studiare da vicino come funziona davvero un programma 
-- **JavaScript / Node.js** – per web, Discord bot e interazioni API [Certificato](https://www.hackerrank.com/certificates/iframe/c700a7064df1)
+- **JavaScript / Node.js** – per web, Discord bot e interazioni API [Certificato](https://www.hackerrank.com/certificates/iframe/7bedac7f8dbf)
 - **PHP / HTML / CSS** – per siti dinamici, backend e frontend base [Certificato](https://www.hackerrank.com/certificates/iframe/8ad98beefd93)
 - **Bash / PowerShell** – per script e gestione sistemi
 
