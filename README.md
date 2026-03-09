@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Gabryx412-coder
 
-Sono un ragazzo con una forte passione per l'informatica, in particolare per la **cybersecurity** e lo **sviluppo software**. Tutto quello che trovi su questo profilo è frutto di **studio, pratica e sperimentazione personale**.
+Sono un ragazzo con una forte passione per l'informatica, in particolare per la **cybersecurity** e lo **[sviluppo software](https://www.hackerrank.com/certificates/iframe/e3689fe7d862)**. Tutto quello che trovi su questo profilo è frutto di **studio, pratica e sperimentazione personale**.
 
 ---
 
