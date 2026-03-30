@@ -57,8 +57,6 @@ Conosco anche YAML, JSON, XML, e so muovermi tra Dockerfile, file di configurazi
 - Script per scansione reti, log analysis, file integrity checker
 - Tools personali per il controllo di configurazioni server
 
-> I progetti non sono solo "dimostrativi": li uso davvero, li gestisco, li modifico ogni volta che trovo qualcosa da migliorare.
-
 ---
 
 ## 📫 Contatti
