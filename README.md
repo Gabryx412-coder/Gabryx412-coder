@@ -4,7 +4,7 @@ Sono un ragazzo con una forte passione per l'informatica, in particolare per la 
 
 ---
 
-## 🔐 Cybersecurity [Certificato](https://www.credly.com/badges/70790e51-e4c2-48ce-88b2-0721f8816477/public_url)
+## 🔐 Cybersecurity [Certificato](https://www.credly.com/badges/c65c11e8-4c16-4d12-b5b8-55dc42be6566/public_url)
 
 Negli ultimi anni mi sono specializzato in sicurezza informatica, partendo da basi solide fino ad arrivare a:
 
