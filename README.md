@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Gabryx412-coder
+# 👋 Ciao, sono Gabry
 
 Sono un ragazzo con una forte passione per l'informatica, in particolare per la **cybersecurity** e lo **[sviluppo software](https://www.hackerrank.com/certificates/iframe/e3689fe7d862)**. Tutto quello che trovi su questo profilo è frutto di **studio, pratica e sperimentazione personale**.
 
@@ -72,12 +72,12 @@ gabry@archbtw:~$ neofetch
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/fish
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: intellij, vscode, visual studio...
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:Gabryx412-Coder
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:gabryxdev
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
 @@@@@@@@@@@.                                     @@@@@@@@@@%   Discord: Gabryx412_
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: Gabryx412-Coder
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: gabryxdev
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   C.I.S.O. Expert and Amateur 
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    Programmer 
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------  
