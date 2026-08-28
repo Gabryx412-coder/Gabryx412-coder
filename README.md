@@ -1,65 +1,63 @@
-# 👋 Ciao, sono Gabry
+# Hi, I'm Gabry 👋
 
-Sono un ragazzo con una forte passione per l'informatica, in particolare per la **cybersecurity** e lo **[sviluppo software](https://www.hackerrank.com/certificates/iframe/e3689fe7d862)**. Tutto quello che trovi su questo profilo è frutto di **studio, pratica e sperimentazione personale**.
-
----
-
-## 🔐 Cybersecurity [Certificato](https://www.credly.com/badges/c65c11e8-4c16-4d12-b5b8-55dc42be6566/public_url)
-
-Negli ultimi anni mi sono specializzato in sicurezza informatica, partendo da basi solide fino ad arrivare a:
-
-- Analisi delle vulnerabilità (manuale e automatizzata)
-- Studio di exploit reali e tecniche di attacco
-- Test di penetrazione su commissione
-- Sviluppo di tool personalizzati per audit e monitoraggio
-- Approccio pratico alla **difesa e protezione di sistemi**, sia server Linux che ambienti Windows
-
-Studio quotidianamente argomenti legati a:
-- Privilege escalation
-- Secure coding
-- Sicurezza di rete
-- Incident response
-- Ethical hacking
+I am a software developer and cybersecurity enthusiast focused on building secure systems, practical tools, and high-performance applications. Everything on this profile is built through continuous self-study, hands-on practice, and personal experimentation.
 
 ---
 
-## 💻 Programmazione
+## 🔐 Cybersecurity
 
-Ho iniziato a programmare per passione, poi per necessità. Oggi uso diversi linguaggi per progetti personali, plugin Minecraft, automazioni e tool per la sicurezza:
+My primary focus is on offensive and defensive security, with hands-on experience in:
 
-### Linguaggi che uso spesso:
-- **Java** – per plugin e creazione di software [Certificato](https://www.hackerrank.com/certificates/iframe/d3d8ec80b894)
-- **Python** – per tool di sicurezza, automazioni e script rapidi [Certificato](https://www.hackerrank.com/certificates/iframe/3ebd0f3d6058)
-- **C / C++** – per studiare da vicino come funziona davvero un programma 
-- **JavaScript / Node.js** – per web, Discord bot e interazioni API [Certificato](https://www.hackerrank.com/certificates/iframe/7bedac7f8dbf)
-- **PHP / HTML / CSS** – per siti dinamici, backend e frontend base [Certificato](https://www.hackerrank.com/certificates/iframe/8ad98beefd93)
-- **Bash / PowerShell** – per script e gestione sistemi
+- **Vulnerability Assessment:** Manual and automated analysis.
+- **Exploit Research:** Studying real-world exploits and attack vectors.
+- **System Hardening:** Securing and monitoring Linux servers and Windows environments.
+- **Tool Development:** Building custom auditing and monitoring scripts.
 
-Conosco anche YAML, JSON, XML, e so muovermi tra Dockerfile, file di configurazione e ambienti Linux.
+**Core Areas of Study:**
+- Privilege Escalation
+- Secure Coding Practices
+- Network Security
+- Incident Response
+- Ethical Hacking
 
----
-
-## ⚙️ Cosa so fare
-
-- Creo **plugin Java** da zero per Minecraft (Paper/Spigot), con tutto configurabile da `config.yml`
-- Gestisco **server dedicati** con attenzione alla sicurezza, performance e stabilità
-- Scrivo **script e tool** personalizzati per risolvere problemi
-- Partecipo a **CTF**, simulazioni di attacco e laboratorio privati per testare exploit e tecniche
-- Capisco cosa vuol dire **scrivere codice sicuro**, e quando è il caso di riscriverlo da zero
+*View my [Cybersecurity Credential](https://www.credly.com/badges/c65c11e8-4c16-4d12-b5b8-55dc42be6566/public_url).*
 
 ---
 
-## 🧪 Alcuni miei progetti
+## 💻 Tech Stack & Programming
 
-- Plugin survival & roleplay (interamente in Java)
-- Sistemi di logging e controllo interno
-- Bot Discord con dashboard e controllo utenti
-- Script per scansione reti, log analysis, file integrity checker
-- Tools personali per il controllo di configurazioni server
+I build software ranging from Minecraft server plugins and automation scripts to security tools and web applications.
+
+- **Java:** Backend development and Minecraft plugins ([Certificate](https://www.hackerrank.com/certificates/iframe/d3d8ec80b894), [Software Engineering Certificate](https://www.hackerrank.com/certificates/iframe/e3689fe7d862))
+- **Python:** Security tools, automation, and rapid scripting ([Certificate](https://www.hackerrank.com/certificates/iframe/3ebd0f3d6058))
+- **C / C++:** Low-level programming and memory mechanics
+- **JavaScript / Node.js:** Web applications, Discord bots, and API integrations ([Certificate](https://www.hackerrank.com/certificates/iframe/7bedac7f8dbf))
+- **PHP / HTML / CSS:** Dynamic websites and basic frontend/backend ([Certificate](https://www.hackerrank.com/certificates/iframe/8ad98beefd93))
+- **Bash / PowerShell:** System administration and automation scripting
+
+**Infrastructure & Formats:** Linux environments, Docker, Git, YAML, JSON, XML.
 
 ---
 
-## 📫 Contatti
+## ⚙️ Core Competencies
+
+- **Software Engineering:** Developing scalable Java plugins (Paper/Spigot) and custom utility tools from scratch.
+- **Systems Administration:** Deploying and managing dedicated servers with a strong emphasis on security, performance, and stability.
+- **Offensive Security:** Participating in CTF competitions and private lab simulations to analyze vulnerabilities and test exploits.
+- **Secure Code Architecture:** Applying secure coding principles and code reviews.
+
+---
+
+## 🧪 Featured Projects
+
+- **Custom Minecraft Plugins:** Advanced survival and roleplay plugins with fully configurable data management.
+- **Internal Logging Systems:** Specialized monitoring and logging solutions.
+- **Discord Bots:** Feature-rich bots featuring user management and interactive dashboards.
+- **Security Utilities:** Network scanning scripts, log analyzers, and file integrity checkers.
+
+---
+
+## 📫 Connect With Me
 
 ```console
 gabry@archbtw:~$ neofetch
